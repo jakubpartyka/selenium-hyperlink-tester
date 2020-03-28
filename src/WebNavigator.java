@@ -26,15 +26,12 @@ class WebNavigator implements Runnable {
     public void run() {
 
 
-        end();
+        //close web driver
+        driver.close();
     }
 
     WebDriver getDriver() {
         return driver;
-    }
-
-    void end() {
-        driver.close();
     }
 
     private static void log (String message){
