@@ -1,0 +1,583 @@
+[88-03-2020-03:40:35][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-03:40:36][MAIN]:Hyperlink test end
+[88-03-2020-03:40:57][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:09:31][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:09:33][MAIN]:Hyperlink test end
+[88-03-2020-04:09:47][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:09:52][MAIN]:Hyperlink test end
+[88-03-2020-04:33:37][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/images/favicon.ico
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/bootstrap.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/jpreloader.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/animate.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/plugin.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/owl.carousel.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/owl.theme.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/owl.transitions.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/magnific-popup.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/style.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/bg.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/color.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/fonts/font-awesome/css/font-awesome.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/fonts/elegant_font/HTML_CSS/style.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/fonts/et-line-font/style.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/rs-plugin/css/settings.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/css/rev-settings.css
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/projekty
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/pracownia
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/oferta
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/wspolpraca
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/kontakt
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.facebook.com/2020concept
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/#
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/en/home
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://slickcode.pl/
+[88-03-2020-04:33:42][DMLS]:added new domaintel:+48664433890
+[88-03-2020-04:33:42][DMLS]:added new domainmailto:info@2020concept.com
+[88-03-2020-04:33:42][NAVG]:scanning https://www.2020concept.com/images/favicon.ico
+[88-03-2020-04:33:42][DMLS]:added new domainhttps://www.2020concept.com/images/favicon.ico
+[88-03-2020-04:33:42][NAVG]:finished scanning https://www.2020concept.com/images/favicon.ico
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/bootstrap.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/bootstrap.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/bootstrap.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/jpreloader.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/jpreloader.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/jpreloader.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/animate.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/animate.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/animate.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/plugin.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/plugin.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/plugin.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/owl.carousel.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/owl.carousel.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/owl.carousel.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/owl.theme.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/owl.theme.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/owl.theme.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/owl.transitions.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/owl.transitions.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/owl.transitions.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/magnific-popup.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/magnific-popup.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/magnific-popup.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/style.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/style.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/style.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/bg.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/bg.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/bg.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/css/color.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/css/color.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/css/color.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/fonts/font-awesome/css/font-awesome.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/fonts/font-awesome/css/font-awesome.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/fonts/font-awesome/css/font-awesome.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/fonts/elegant_font/HTML_CSS/style.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/fonts/elegant_font/HTML_CSS/style.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/fonts/elegant_font/HTML_CSS/style.css
+[88-03-2020-04:33:43][NAVG]:scanning https://www.2020concept.com/fonts/et-line-font/style.css
+[88-03-2020-04:33:43][DMLS]:added new domainhttps://www.2020concept.com/fonts/et-line-font/style.css
+[88-03-2020-04:33:43][NAVG]:finished scanning https://www.2020concept.com/fonts/et-line-font/style.css
+[88-03-2020-04:33:44][NAVG]:scanning https://www.2020concept.com/rs-plugin/css/settings.css
+[88-03-2020-04:33:44][DMLS]:added new domainhttps://www.2020concept.com/rs-plugin/css/settings.css
+[88-03-2020-04:33:44][NAVG]:finished scanning https://www.2020concept.com/rs-plugin/css/settings.css
+[88-03-2020-04:33:44][NAVG]:scanning https://www.2020concept.com/css/rev-settings.css
+[88-03-2020-04:33:44][DMLS]:added new domainhttps://www.2020concept.com/css/rev-settings.css
+[88-03-2020-04:33:44][NAVG]:finished scanning https://www.2020concept.com/css/rev-settings.css
+[88-03-2020-04:33:44][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:33:44][DMLS]:added new domainhttps://www.2020concept.com/
+[88-03-2020-04:33:44][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:33:44][NAVG]:scanning https://www.2020concept.com/projekty
+[88-03-2020-04:33:44][DMLS]:added new domainhttps://www.2020concept.com/projekty
+[88-03-2020-04:33:44][NAVG]:finished scanning https://www.2020concept.com/projekty
+[88-03-2020-04:33:47][NAVG]:scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:33:47][DMLS]:added new domainhttps://www.2020concept.com/pracownia
+[88-03-2020-04:33:47][NAVG]:finished scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:33:47][NAVG]:scanning https://www.2020concept.com/oferta
+[88-03-2020-04:33:47][DMLS]:added new domainhttps://www.2020concept.com/oferta
+[88-03-2020-04:33:47][NAVG]:finished scanning https://www.2020concept.com/oferta
+[88-03-2020-04:33:48][NAVG]:scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:33:48][DMLS]:added new domainhttps://www.2020concept.com/wspolpraca
+[88-03-2020-04:33:48][NAVG]:finished scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:33:48][NAVG]:scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:33:48][DMLS]:added new domainhttps://www.2020concept.com/kontakt
+[88-03-2020-04:33:48][NAVG]:finished scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:33:49][NAVG]:scanning https://www.facebook.com/2020concept
+[88-03-2020-04:33:50][DMLS]:added new domainhttps://www.facebook.com/2020concept
+[88-03-2020-04:33:50][NAVG]:finished scanning https://www.facebook.com/2020concept
+[88-03-2020-04:33:50][NAVG]:scanning https://www.2020concept.com/#
+[88-03-2020-04:33:50][DMLS]:added new domainhttps://www.2020concept.com/#
+[88-03-2020-04:33:50][NAVG]:finished scanning https://www.2020concept.com/#
+[88-03-2020-04:33:51][NAVG]:scanning https://www.2020concept.com/en/home
+[88-03-2020-04:33:51][DMLS]:added new domainhttps://www.2020concept.com/en/home
+[88-03-2020-04:33:51][NAVG]:finished scanning https://www.2020concept.com/en/home
+[88-03-2020-04:33:53][NAVG]:scanning https://slickcode.pl/
+[88-03-2020-04:33:53][DMLS]:added new domainhttps://slickcode.pl/
+[88-03-2020-04:33:53][NAVG]:finished scanning https://slickcode.pl/
+[88-03-2020-04:33:53][NAVG]:scanning tel:+48664433890
+[88-03-2020-04:33:53][DMLS]:added new domaintel:+48664433890
+[88-03-2020-04:33:53][NAVG]:finished scanning tel:+48664433890
+[88-03-2020-04:33:53][NAVG]:scanning mailto:info@2020concept.com
+[88-03-2020-04:33:53][DMLS]:added new domainmailto:info@2020concept.com
+[88-03-2020-04:33:53][NAVG]:finished scanning mailto:info@2020concept.com
+[88-03-2020-04:33:53][NAVG]:no more domains to scan. Printing results
+[88-03-2020-04:33:54][MAIN]:Hyperlink test end
+[88-03-2020-04:37:41][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.facebook.com/2020concept
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:37:45][DMLS]:added new domain: https://slickcode.pl/
+[88-03-2020-04:37:45][DMLS]:added new domain: tel:+48664433890
+[88-03-2020-04:37:45][DMLS]:added new domain: mailto:info@2020concept.com
+[88-03-2020-04:37:45][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:37:45][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:37:45][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:37:46][NAVG]:scanning https://www.2020concept.com/projekty
+[88-03-2020-04:37:46][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:37:46][NAVG]:finished scanning https://www.2020concept.com/projekty
+[88-03-2020-04:37:46][NAVG]:scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:37:46][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:37:46][NAVG]:finished scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:37:46][NAVG]:scanning https://www.2020concept.com/oferta
+[88-03-2020-04:37:46][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:37:46][NAVG]:finished scanning https://www.2020concept.com/oferta
+[88-03-2020-04:37:46][NAVG]:scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:37:46][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:37:46][NAVG]:finished scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:37:46][NAVG]:scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:37:46][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:37:46][NAVG]:finished scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:37:48][NAVG]:scanning https://www.facebook.com/2020concept
+[88-03-2020-04:37:48][DMLS]:added new domain: https://www.facebook.com/2020concept
+[88-03-2020-04:37:48][NAVG]:finished scanning https://www.facebook.com/2020concept
+[88-03-2020-04:37:49][NAVG]:scanning https://www.2020concept.com/#
+[88-03-2020-04:37:49][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:37:49][NAVG]:finished scanning https://www.2020concept.com/#
+[88-03-2020-04:37:50][NAVG]:scanning https://www.2020concept.com/en/home
+[88-03-2020-04:37:50][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:37:50][NAVG]:finished scanning https://www.2020concept.com/en/home
+[88-03-2020-04:37:51][NAVG]:scanning https://slickcode.pl/
+[88-03-2020-04:37:51][DMLS]:added new domain: https://slickcode.pl/
+[88-03-2020-04:37:51][NAVG]:finished scanning https://slickcode.pl/
+[88-03-2020-04:37:51][NAVG]:scanning tel:+48664433890
+[88-03-2020-04:37:51][DMLS]:added new domain: tel:+48664433890
+[88-03-2020-04:37:51][NAVG]:finished scanning tel:+48664433890
+[88-03-2020-04:37:51][NAVG]:scanning mailto:info@2020concept.com
+[88-03-2020-04:37:51][DMLS]:added new domain: mailto:info@2020concept.com
+[88-03-2020-04:37:51][NAVG]:finished scanning mailto:info@2020concept.com
+[88-03-2020-04:37:51][NAVG]:no more domains to scan. Printing results
+[88-03-2020-04:37:51][NAVG]:RESULTS:
+domains scanned: 13invalid hyperlinks: 0
+[88-03-2020-04:37:52][MAIN]:Hyperlink test end
+[88-03-2020-04:42:37][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:42:40][DMLS]:added new domain: https://www.2020concept.com
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:42:41][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:42:41][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:42:41][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:42:43][NAVG]:scanning https://www.2020concept.com/projekty
+[88-03-2020-04:42:43][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:42:43][NAVG]:finished scanning https://www.2020concept.com/projekty
+[88-03-2020-04:42:43][NAVG]:scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:42:43][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:42:43][NAVG]:finished scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:42:43][NAVG]:scanning https://www.2020concept.com/oferta
+[88-03-2020-04:42:43][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:42:43][NAVG]:finished scanning https://www.2020concept.com/oferta
+[88-03-2020-04:42:44][NAVG]:scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:42:44][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:42:44][NAVG]:finished scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:42:44][NAVG]:scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:42:44][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:42:44][NAVG]:finished scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:42:44][NAVG]:scanning https://www.2020concept.com/#
+[88-03-2020-04:42:44][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:42:44][NAVG]:finished scanning https://www.2020concept.com/#
+[88-03-2020-04:42:47][NAVG]:scanning https://www.2020concept.com/en/home
+[88-03-2020-04:42:48][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:42:48][NAVG]:finished scanning https://www.2020concept.com/en/home
+[88-03-2020-04:42:48][NAVG]:no more domains to scan. Printing results
+[88-03-2020-04:42:48][NAVG]:RESULTS:
+domains scanned: 9
+invalid hyperlinks: 0
+[88-03-2020-04:42:48][MAIN]:Hyperlink test end
+[88-03-2020-04:43:12][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:43:14][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:43:14][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:43:15][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:43:15][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:43:15][NAVG]:scanning https://www.2020concept.com/projekty
+[88-03-2020-04:43:15][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:43:15][NAVG]:finished scanning https://www.2020concept.com/projekty
+[88-03-2020-04:43:15][NAVG]:scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:43:15][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:43:15][NAVG]:finished scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:43:15][NAVG]:scanning https://www.2020concept.com/oferta
+[88-03-2020-04:43:15][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:43:15][NAVG]:finished scanning https://www.2020concept.com/oferta
+[88-03-2020-04:43:15][NAVG]:scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:43:15][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:43:15][NAVG]:finished scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:43:15][NAVG]:scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:43:16][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:43:16][NAVG]:finished scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:43:16][NAVG]:scanning https://www.2020concept.com/#
+[88-03-2020-04:43:16][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:43:16][NAVG]:finished scanning https://www.2020concept.com/#
+[88-03-2020-04:43:16][NAVG]:scanning https://www.2020concept.com/en/home
+[88-03-2020-04:43:16][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:43:16][NAVG]:finished scanning https://www.2020concept.com/en/home
+[88-03-2020-04:43:16][NAVG]:no more domains to scan. Printing results
+[88-03-2020-04:43:16][NAVG]:RESULTS:
+domains scanned: 9
+invalid hyperlinks: 0
+[88-03-2020-04:43:16][MAIN]:Hyperlink test end
+[88-03-2020-04:44:01][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:44:03][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:44:03][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:44:04][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:44:04][NAVG]:scanning https://www.2020concept.com/projekty
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/home
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/projekty#
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/en/projects
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/projekty-wnetrza
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/projekty-sceno
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/projekty-wystawy
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/projekty-eventy
+[88-03-2020-04:44:04][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:44:04][NAVG]:finished scanning https://www.2020concept.com/projekty
+[88-03-2020-04:44:04][NAVG]:scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/pracownia#
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/en/about
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:44:05][NAVG]:finished scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:44:05][NAVG]:scanning https://www.2020concept.com/oferta
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/oferta#
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/en/offer
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:44:05][NAVG]:finished scanning https://www.2020concept.com/oferta
+[88-03-2020-04:44:05][NAVG]:scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/wspolpraca#
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/en/cooperation
+[88-03-2020-04:44:05][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:05][NAVG]:finished scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:06][NAVG]:scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:44:06][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:06][DMLS]:added new domain: https://www.2020concept.com/kontakt#
+[88-03-2020-04:44:06][DMLS]:added new domain: https://www.2020concept.com/en/contact
+[88-03-2020-04:44:06][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:44:06][NAVG]:finished scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:44:06][NAVG]:scanning https://www.2020concept.com/#
+[88-03-2020-04:44:06][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:44:06][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:44:06][NAVG]:finished scanning https://www.2020concept.com/#
+[88-03-2020-04:44:07][NAVG]:scanning https://www.2020concept.com/en/home
+[88-03-2020-04:44:07][DMLS]:added new domain: https://www.2020concept.com/en
+[88-03-2020-04:44:07][DMLS]:added new domain: https://www.2020concept.com/en/home#
+[88-03-2020-04:44:07][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:44:07][NAVG]:finished scanning https://www.2020concept.com/en/home
+[88-03-2020-04:44:07][NAVG]:scanning https://www.2020concept.com/home
+[88-03-2020-04:44:07][DMLS]:added new domain: https://www.2020concept.com/home#
+[88-03-2020-04:44:07][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:44:07][DMLS]:added new domain: https://www.2020concept.com/home
+[88-03-2020-04:44:07][NAVG]:finished scanning https://www.2020concept.com/home
+[88-03-2020-04:44:08][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:44:08][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:44:08][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:44:08][NAVG]:scanning https://www.2020concept.com/projekty#
+[88-03-2020-04:44:08][DMLS]:added new domain: https://www.2020concept.com/home
+[88-03-2020-04:44:08][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:44:08][DMLS]:added new domain: https://www.2020concept.com/projekty#
+[88-03-2020-04:44:08][NAVG]:finished scanning https://www.2020concept.com/projekty#
+[88-03-2020-04:44:09][NAVG]:scanning https://www.2020concept.com/en/projects
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/projects#
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/projekty-wnetrza
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/projekty-sceno
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/projekty-wystawy
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/projekty-eventy
+[88-03-2020-04:44:09][DMLS]:added new domain: https://www.2020concept.com/en/projects
+[88-03-2020-04:44:09][NAVG]:finished scanning https://www.2020concept.com/en/projects
+[88-03-2020-04:44:10][NAVG]:scanning https://www.2020concept.com/projekty-wnetrza
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/projekty-wnetrza#
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/en/interiors
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wnetrza/mieszkaniePraga.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/gala.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/halka.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/eventy/bmw.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/sgrb.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/eventy/kinder.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/basiag.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/burnout.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/ruh.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/arturo.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/rotka.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wystawy/bratyslava.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/einer.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/lucky.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/woch.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/sceno/kaen.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/eventy/hoffest.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/eventy/wwlt.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wystawy/formyKosmosu.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wystawy/popupstory.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wnetrza/domwawa.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wnetrza/otwock.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/pro-content/wnetrza/modele.html
+[88-03-2020-04:44:10][DMLS]:added new domain: https://www.2020concept.com/projekty-wnetrza
+[88-03-2020-04:44:10][NAVG]:finished scanning https://www.2020concept.com/projekty-wnetrza
+[88-03-2020-04:44:10][NAVG]:scanning https://www.2020concept.com/projekty-sceno
+[88-03-2020-04:44:11][DMLS]:added new domain: https://www.2020concept.com/projekty-sceno#
+[88-03-2020-04:44:11][DMLS]:added new domain: https://www.2020concept.com/en/scenography
+[88-03-2020-04:44:11][DMLS]:added new domain: https://www.2020concept.com/projekty-sceno
+[88-03-2020-04:44:11][NAVG]:finished scanning https://www.2020concept.com/projekty-sceno
+[88-03-2020-04:44:11][NAVG]:scanning https://www.2020concept.com/projekty-wystawy
+[88-03-2020-04:44:11][DMLS]:added new domain: https://www.2020concept.com/projekty-wystawy#
+[88-03-2020-04:44:11][DMLS]:added new domain: https://www.2020concept.com/en/exhibitions
+[88-03-2020-04:44:11][DMLS]:added new domain: https://www.2020concept.com/projekty-wystawy
+[88-03-2020-04:44:11][NAVG]:finished scanning https://www.2020concept.com/projekty-wystawy
+[88-03-2020-04:44:15][NAVG]:scanning https://www.2020concept.com/projekty-eventy
+[88-03-2020-04:44:15][DMLS]:added new domain: https://www.2020concept.com/projekty-eventy#
+[88-03-2020-04:44:15][DMLS]:added new domain: https://www.2020concept.com/en/events
+[88-03-2020-04:44:15][DMLS]:added new domain: https://www.2020concept.com/projekty-eventy
+[88-03-2020-04:44:15][NAVG]:finished scanning https://www.2020concept.com/projekty-eventy
+[88-03-2020-04:44:15][NAVG]:scanning https://www.2020concept.com/projekty
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/projekty#
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/en/projects
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/projekty-wnetrza
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/projekty-sceno
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/projekty-wystawy
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/projekty-eventy
+[88-03-2020-04:44:16][NAVG]:finished scanning https://www.2020concept.com/projekty
+[88-03-2020-04:44:16][NAVG]:scanning https://www.2020concept.com/pracownia#
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:44:16][DMLS]:added new domain: https://www.2020concept.com/pracownia#
+[88-03-2020-04:44:16][NAVG]:finished scanning https://www.2020concept.com/pracownia#
+[88-03-2020-04:44:16][NAVG]:scanning https://www.2020concept.com/en/about
+[88-03-2020-04:44:17][DMLS]:added new domain: https://www.2020concept.com/en/about#
+[88-03-2020-04:44:17][DMLS]:added new domain: https://www.2020concept.com/en/about
+[88-03-2020-04:44:17][NAVG]:finished scanning https://www.2020concept.com/en/about
+[88-03-2020-04:44:17][NAVG]:scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:44:17][DMLS]:added new domain: https://www.2020concept.com/pracownia#
+[88-03-2020-04:44:17][DMLS]:added new domain: https://www.2020concept.com/en/about
+[88-03-2020-04:44:17][NAVG]:finished scanning https://www.2020concept.com/pracownia
+[88-03-2020-04:44:17][NAVG]:scanning https://www.2020concept.com/oferta#
+[88-03-2020-04:44:17][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:44:17][DMLS]:added new domain: https://www.2020concept.com/oferta#
+[88-03-2020-04:44:17][NAVG]:finished scanning https://www.2020concept.com/oferta#
+[88-03-2020-04:44:19][NAVG]:scanning https://www.2020concept.com/en/offer
+[88-03-2020-04:44:19][DMLS]:added new domain: https://www.2020concept.com/en/offer#
+[88-03-2020-04:44:20][DMLS]:added new domain: https://www.2020concept.com/en/offer
+[88-03-2020-04:44:20][NAVG]:finished scanning https://www.2020concept.com/en/offer
+[88-03-2020-04:44:20][NAVG]:scanning https://www.2020concept.com/oferta
+[88-03-2020-04:44:20][DMLS]:added new domain: https://www.2020concept.com/oferta#
+[88-03-2020-04:44:20][DMLS]:added new domain: https://www.2020concept.com/en/offer
+[88-03-2020-04:44:20][NAVG]:finished scanning https://www.2020concept.com/oferta
+[88-03-2020-04:44:20][NAVG]:scanning https://www.2020concept.com/wspolpraca#
+[88-03-2020-04:44:20][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:44:20][DMLS]:added new domain: https://www.2020concept.com/wspolpraca#
+[88-03-2020-04:44:20][NAVG]:finished scanning https://www.2020concept.com/wspolpraca#
+[88-03-2020-04:44:21][NAVG]:scanning https://www.2020concept.com/en/cooperation
+[88-03-2020-04:44:22][DMLS]:added new domain: https://www.2020concept.com/en/cooperation#
+[88-03-2020-04:44:22][DMLS]:added new domain: https://www.2020concept.com/en/cooperation
+[88-03-2020-04:44:22][NAVG]:finished scanning https://www.2020concept.com/en/cooperation
+[88-03-2020-04:44:22][NAVG]:scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:22][DMLS]:added new domain: https://www.2020concept.com/wspolpraca#
+[88-03-2020-04:44:22][DMLS]:added new domain: https://www.2020concept.com/en/cooperation
+[88-03-2020-04:44:22][NAVG]:finished scanning https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:22][NAVG]:scanning https://www.2020concept.com/kontakt#
+[88-03-2020-04:44:22][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:44:22][DMLS]:added new domain: https://www.2020concept.com/kontakt#
+[88-03-2020-04:44:22][NAVG]:finished scanning https://www.2020concept.com/kontakt#
+[88-03-2020-04:44:22][NAVG]:scanning https://www.2020concept.com/en/contact
+[88-03-2020-04:44:23][DMLS]:added new domain: https://www.2020concept.com/en/contact#
+[88-03-2020-04:44:23][DMLS]:added new domain: https://www.2020concept.com/en/contact
+[88-03-2020-04:44:23][NAVG]:finished scanning https://www.2020concept.com/en/contact
+[88-03-2020-04:44:23][NAVG]:scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:44:23][DMLS]:added new domain: https://www.2020concept.com/kontakt#
+[88-03-2020-04:44:23][DMLS]:added new domain: https://www.2020concept.com/en/contact
+[88-03-2020-04:44:23][NAVG]:finished scanning https://www.2020concept.com/kontakt
+[88-03-2020-04:44:23][NAVG]:scanning https://www.2020concept.com/en
+[88-03-2020-04:44:23][DMLS]:added new domain: https://www.2020concept.com/en/#
+[88-03-2020-04:44:23][DMLS]:added new domain: https://www.2020concept.com/en
+[88-03-2020-04:44:23][NAVG]:finished scanning https://www.2020concept.com/en
+[88-03-2020-04:44:23][NAVG]:scanning https://www.2020concept.com/en/home#
+[88-03-2020-04:44:24][DMLS]:added new domain: https://www.2020concept.com/en
+[88-03-2020-04:44:24][DMLS]:added new domain: https://www.2020concept.com/en/home#
+[88-03-2020-04:44:24][NAVG]:finished scanning https://www.2020concept.com/en/home#
+[88-03-2020-04:44:24][NAVG]:scanning https://www.2020concept.com/home#
+[88-03-2020-04:44:24][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:44:24][DMLS]:added new domain: https://www.2020concept.com/home#
+[88-03-2020-04:44:24][NAVG]:finished scanning https://www.2020concept.com/home#
+[88-03-2020-04:44:24][NAVG]:scanning https://www.2020concept.com/en/home
+[88-03-2020-04:44:25][DMLS]:added new domain: https://www.2020concept.com/en/home#
+[88-03-2020-04:44:25][NAVG]:finished scanning https://www.2020concept.com/en/home
+[88-03-2020-04:44:25][NAVG]:scanning https://www.2020concept.com/#
+[88-03-2020-04:44:25][DMLS]:added new domain: https://www.2020concept.com/en/home
+[88-03-2020-04:44:25][NAVG]:finished scanning https://www.2020concept.com/#
+[88-03-2020-04:44:25][NAVG]:scanning https://www.2020concept.com/home
+[88-03-2020-04:44:26][DMLS]:added new domain: https://www.2020concept.com/home#
+[88-03-2020-04:44:26][NAVG]:finished scanning https://www.2020concept.com/home
+[88-03-2020-04:44:26][NAVG]:scanning https://www.2020concept.com/
+[88-03-2020-04:44:26][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:44:26][NAVG]:finished scanning https://www.2020concept.com/
+[88-03-2020-04:44:26][NAVG]:scanning https://www.2020concept.com/en/
+[88-03-2020-04:44:26][DMLS]:added new domain: https://www.2020concept.com/home
+[88-03-2020-04:44:27][DMLS]:added new domain: https://www.2020concept.com/en/
+[88-03-2020-04:44:27][NAVG]:finished scanning https://www.2020concept.com/en/
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][DMLS]:added new domain: https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:29][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:30][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:31][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:32][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:33][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:33][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:33][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:33][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:44:34][NAVG]:scanning https://www.2020concept.com/en/en/projects
+[88-03-2020-04:49:54][MAIN]:Hyperlink test begin. Target domain: https://www.2020concept.com
+[88-03-2020-04:49:56][DMLS]:added new domain: https://www.2020concept.com
+[88-03-2020-04:49:56][DMLS]:added new domain: https://www.2020concept.com/
+[88-03-2020-04:49:56][DMLS]:added new domain: https://www.2020concept.com/projekty
+[88-03-2020-04:49:57][DMLS]:added new domain: https://www.2020concept.com/pracownia
+[88-03-2020-04:49:57][DMLS]:added new domain: https://www.2020concept.com/oferta
+[88-03-2020-04:49:57][DMLS]:added new domain: https://www.2020concept.com/wspolpraca
+[88-03-2020-04:49:57][DMLS]:added new domain: https://www.2020concept.com/kontakt
+[88-03-2020-04:49:57][DMLS]:added new domain: https://www.2020concept.com/#
+[88-03-2020-04:49:57][DMLS]:added new domain: https://www.2020concept.com/en/home

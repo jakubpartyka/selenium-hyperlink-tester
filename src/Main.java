@@ -1,6 +1,6 @@
 public class Main {
     //settings
-    private static final String TARGET    = "https://www.2020concept.com";
+    static final String TARGET    = "https://www.2020concept.com";
     static final boolean HEADLESS = true;
     static final boolean logToFile = true;
     static final boolean logToConsole = true;
