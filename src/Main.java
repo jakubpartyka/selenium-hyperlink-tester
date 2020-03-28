@@ -1,20 +1,19 @@
-import java.util.List;
-
 public class Main {
+    //settings
     private static final String TARGET    = "https://www.2020concept.com";
     static final boolean HEADLESS = true;
-    private static List<String> discoveredSubdomains = new DomainList<>();
-    private static List<String> checkedDomains = new DomainList<>();
+    static final boolean logToFile = true;
+    static final boolean logToConsole = true;
+    static final String  LOG_PATH = "log.txt";
 
     public static void main(String[] args) {
-        WebNavigator navigator = new WebNavigator();
-        navigator.getDriver().get(TARGET);
-
-
-        navigator.end();
+        log("Hyperlink test begin. Target domain: " + TARGET);
+        Thread thread = new Thread(new WebNavigator());
+        thread.run();
+        log("Hyperlink test end");
     }
 
     private static void log (String message){
-        System.out.println(message);
+        Logger.log(message,"MAIN");
     }
 }
