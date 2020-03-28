@@ -9,9 +9,15 @@ class Domain {
 
     @Override
     public String toString() {
-        return "Domain{" +
-                "domain='" + domain + '\'' +
-                '}';
+        return domain;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if(!obj.getClass().equals(this.getClass()))
+            return false;
+        Domain o = (Domain)obj;
+        return o.getDomain().equals(this.domain);
     }
 
     String getDomain() {
