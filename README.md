@@ -1,2 +1,2 @@
 # selenium-hyperlink-tester
-A simple selenium crawler that checks if all hyperlinks in target domain (and it sub-domains) are correct (no 404 error). Hopefully useful for web developers :))
+Simple Java+Selenium application that looks for 404-leading hyperlinks on target domain. Hopefully useful for web developers.
